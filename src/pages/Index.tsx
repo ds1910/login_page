@@ -1,7 +1,7 @@
-import AuthPage from '@/components/AuthPage';
+import PremiumAuthPage from '@/components/PremiumAuthPage';
 
 const Index = () => {
-  return <AuthPage />;
+  return <PremiumAuthPage />;
 };
 
 export default Index;
